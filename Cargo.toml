@@ -1,0 +1,11 @@
+[package]
+name = "mangobsgsrust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.1"
+bitcoin_hashes = "0.10"
+hex = "0.4"
+rand = "0.8"
+secp256k1 = "0.23"
